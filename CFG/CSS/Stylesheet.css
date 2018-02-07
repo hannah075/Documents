@@ -1,0 +1,13 @@
+div #about_blue{
+  border: blue;
+}
+div #about_yellow{
+  border: yellow
+}
+hi {
+  color: red;
+}
+ul.nav li{
+                display: inline-block;
+                padding-right: 10px;
+            }
